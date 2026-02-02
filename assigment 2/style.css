@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(25, 24, 24);
+}
+.nav_shell {
+    background-color: rgb(244, 65, 65);
+    display: flex;
+    justify-content: center;
+}
+.nav_content{
+    display: flex;
+    justify-content: center;
+}
+
+.nav_item{
+    padding: 50px;
+    list-style-type: none;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+     color: black;
+    font-weight: 500;
+    font-size: large;
+}
+.img_container{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.audio_container{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+.video_container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
