@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(182, 246, 255);
+    font-weight: 600;
+}
+
+.table_container{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border-style: solid;
+    border-spacing: 10px;
+    padding: 10px;
+    border-collapse: collapse;
+    
+}
+
+.right{
+    text-align: right;
+}
+tr{
+    border-bottom: 2px solid black;
+    
+}
+td{
+    border-right: 2px solid black;
+    padding: 5px;
+}
+.ol_right{
+    display: flex;
+    justify-content: right;
+}
