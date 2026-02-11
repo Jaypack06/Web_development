@@ -9,10 +9,106 @@
     <body>
         <nav class="nav_container">
             <a href="#inline">Inline vs block</a>
+            <a href="#video">HTML Video</a>
+            <a href="#planner">Planner</a>
+            <a href="#study">Study Tracker Table</a>
         </nav>
 
-        
+        <h1 id="inline" class="bvi_content">Block vs Inline Elements</h1>
+        <div class="bvi_text_container">
+        <div class="div_text1">
+            <div>This is an example using a "div".</div>
+            <div>See when I use another div line it goes under and not text to the text.</div>
+            <p>Don't forget that when you use "p", this is also a block text example.</p>
+            <h3>EVEN HEADERS ARE BLOCK TEXT!</h3>
+        </div>
+        <div class="inline_text2">
+            <span>When using span this is how it looks.</span>
+            <span>This is the next line of code and you would never know!</span>
+            <strong>You can also use Strong, em, and even code to make inline text.</strong>
+            <em>If you wanna check you can right click and select inspect to see the code!</em>
+        </div>
+        </div>
+        <br>
+        <h1 class="title" id="video">Embedded Content</h1>
+        <div class="iframe_container"> 
+            <iframe src="https://www.youtube.com/embed/salY_Sm6mv4" 
+            title="youtube video html in 5 minutes" 
+            allowfullscreen></iframe>
+        </div>
+        <h1 class="title" id="planner">My Simple Weekly Planner</h1>
+        <br>
+        <div class="ul_container">
+            <ul>
+                <h3>Tools I use for learning</h3>
+                <li >Ipad to take notes</li>
+                <li >Youtube</li>
+                <li >Going over homework</li>
+                <li >ChatGPT</li>
+                <li >Books</li>
+            </ul>
+        </div>
+        <div class="ol_container">
+            <ol type="1">
+                <h3>My routine when I study</h3>
+                <li>I lock myself into a quite room</li>
+                <li>I make sure that everything is set up properly</li>
+                <li>I look over the main content</li>
+                <ul>
+                    <li>Practice exam</li>
+                    <li>Project</li>
+                </ul>
+                <li>Find what I need to go over</li>
+                <li>Study what is difficult</li>
+                <ul>
+                    <li>If I find what I struggle with that's what I go over for exams</li>
+                </ul>
+                <li>Do tedious work</li>
+                <ul>
+                    <li>anything that isn't going to help me that doesn't need a lot of attention</li>
+                </ul>
+            </ol>
+        </div>
 
-    </body>
+            <h1 class="title" id="study">Study Tracker Table</h1>
+            <table class="table_container">
+                <tr>
+                    <th></th>
+                    <th>Monday</th>
+                    <th>Tuesday</th>
+                    <th>Wednesday</th>
+                    <th>Thursday</th>
+                    <th>Friday</th>
+                </tr>
+                <tr>
+                    <td>Topic:</td>
+                    <td>Math</td>
+                    <td>Coding-python</td>
+                    <td>Machine Learning</td>
+                    <td>Math</td>
+                    <td>Coding-Web design</td>
+                </tr>
+                <tr>
+                    <td>Time Spent:</td>
+                    <td>60 minutes</td>
+                    <td>120 minutes</td>
+                    <td>30 minutes</td>
+                    <td>45 minutes</td>
+                    <td>60 minutes</td>
+                </tr>
+                <tr>
+                    <td>Status:</td>
+                    <td>Done</td>
+                    <td>Done</td>
+                    <td>In Progress</td>
+                    <td>Not started</td>
+                    <td>In Progress</td>
+                </tr>
+                <tr class="span">
+                    <td colspan="6" class="right">Total time Studying: 315 minutes</td>
+                </tr>
+            </table>
+
+</body>
        
 </html>

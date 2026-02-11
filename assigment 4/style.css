@@ -10,6 +10,7 @@ body{
     background-color: rgb(50, 49, 49);
     width: 100%;
     height: 50px;
+    
 }
 a{
     text-decoration: none;
@@ -18,4 +19,99 @@ a{
     display: flex;
     justify-self: center;
     padding-top: 10px;
+    padding-right: 100px;
+}
+.bvi_content{
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+    font-size: 50px;
+}
+.bvi_text_container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1fr);
+    gap: 8px;
+    margin-right: 25px;
+    height: 200px;
+    align-items: center;
+    
+    
+}
+.div_text1{
+    font-size:medium ;
+    font-weight: 500;
+    color: bisque;
+    margin-left:25% ;
+    margin-top: 5%;
+    background-color: rgb(50, 49, 49);
+    padding: 25px;
+    margin-right: 25%;
+    height: 200px;
+}
+.inline_text2{
+    font-size:medium ;
+    font-weight: 500;
+    color: bisque;
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: rgb(50, 49, 49);
+    padding: 25px;
+    margin-right: 25%;
+    height: 200PX;
+}
+
+.iframe_container{
+    display: flex;
+    justify-self: center;
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+
+iframe{
+    border: none;
+    display: flex;
+    justify-content: center;
+    width: 1500px;
+    height:1000px
+}
+.title{
+    display: flex;
+    justify-self: center;
+    padding-top: 10%;
+    font-size: 50px;
+}
+
+
+.ul_container{
+    display: flex;
+    justify-content: center;
+    padding-right: 20%;
+}
+
+.ol_container{
+    display: flex;
+    justify-content: center;
+    padding-left: 20%;
+}
+.table_container{
+    display: flex;
+    justify-content: center;
+    border-width: 5px;
+    border-spacing: 60px;
+    border-collapse: collapse;
+    padding: 50px;
+}
+th{
+
+    border: 5px solid;
+    padding: 50px;
+}
+td{
+
+    border: 5px solid;
+    padding: 50px;
+}
+.right{
+    text-align: right;
 }
