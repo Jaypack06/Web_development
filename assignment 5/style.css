@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(49, 49, 49);
+    color: orangered;
+}
+h2{
+    display: flex;
+    justify-content: center
+}
+
