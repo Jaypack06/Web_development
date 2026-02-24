@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image: url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600');
+
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    margin: 30px;
+}
+
+p{
+    background-color: lightyellow;
+}
+
+.highlight{
+    background-color: lightgreen;
+    color: black;
+    padding: 20px;
+}
+
+#main-header{
+    color: blue;
+    border-bottom: 2px solid #333;
+}
+
+a{
+    color: purple;
+}
+a:hover{
+    color: orange;
+}
+
+div{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.dashed_green{
+    border: 2px dashed green;
+}
+
+.double-line{
+    border: 2px double black;
+}
