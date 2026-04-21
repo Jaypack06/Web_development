@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\asp_practice\\WebApplication1_asp_empty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9293F8-3A18-9BAA-B2C5-1B6526263482}|WebApplication1_asp_empty\\WebApplication1_asp_empty.csproj|c:\\users\\jayde\\class\\web_development\\web_development\\asp_practice\\webapplication1_asp_empty\\webapplication1_asp_empty\\webform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9293F8-3A18-9BAA-B2C5-1B6526263482}|WebApplication1_asp_empty\\WebApplication1_asp_empty.csproj|solutionrelative:webapplication1_asp_empty\\webform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "webform.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\asp_practice\\WebApplication1_asp_empty\\WebApplication1_asp_empty\\webform.cs",
+              "RelativeDocumentMoniker": "WebApplication1_asp_empty\\webform.cs",
+              "ToolTip": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\asp_practice\\WebApplication1_asp_empty\\WebApplication1_asp_empty\\webform.cs",
+              "RelativeToolTip": "WebApplication1_asp_empty\\webform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:02:36.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

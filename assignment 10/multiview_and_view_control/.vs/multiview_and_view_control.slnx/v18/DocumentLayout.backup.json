@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 10\\multiview_and_view_control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF635A1-C6BB-4152-86DF-F68BF21603A2}|Lab Assignment 10\\Lab Assignment 10.csproj|c:\\users\\jayde\\class\\web_development\\web_development\\assignment 10\\multiview_and_view_control\\lab assignment 10\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DAF635A1-C6BB-4152-86DF-F68BF21603A2}|Lab Assignment 10\\Lab Assignment 10.csproj|solutionrelative:lab assignment 10\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF635A1-C6BB-4152-86DF-F68BF21603A2}|Lab Assignment 10\\Lab Assignment 10.csproj|c:\\users\\jayde\\class\\web_development\\web_development\\assignment 10\\multiview_and_view_control\\lab assignment 10\\usercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{DAF635A1-C6BB-4152-86DF-F68BF21603A2}|Lab Assignment 10\\Lab Assignment 10.csproj|solutionrelative:lab assignment 10\\usercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF635A1-C6BB-4152-86DF-F68BF21603A2}|Lab Assignment 10\\Lab Assignment 10.csproj|c:\\users\\jayde\\class\\web_development\\web_development\\assignment 10\\multiview_and_view_control\\lab assignment 10\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DAF635A1-C6BB-4152-86DF-F68BF21603A2}|Lab Assignment 10\\Lab Assignment 10.csproj|solutionrelative:lab assignment 10\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 10\\multiview_and_view_control\\Lab Assignment 10\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Lab Assignment 10\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 10\\multiview_and_view_control\\Lab Assignment 10\\WebForm1.aspx",
+              "RelativeToolTip": "Lab Assignment 10\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-07T15:33:18.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.ascx",
+              "DocumentMoniker": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 10\\multiview_and_view_control\\Lab Assignment 10\\UserControl1.ascx",
+              "RelativeDocumentMoniker": "Lab Assignment 10\\UserControl1.ascx",
+              "ToolTip": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 10\\multiview_and_view_control\\Lab Assignment 10\\UserControl1.ascx",
+              "RelativeToolTip": "Lab Assignment 10\\UserControl1.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2026-04-07T15:32:57.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 10\\multiview_and_view_control\\Lab Assignment 10\\styles.css",
+              "RelativeDocumentMoniker": "Lab Assignment 10\\styles.css",
+              "ToolTip": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 10\\multiview_and_view_control\\Lab Assignment 10\\styles.css",
+              "RelativeToolTip": "Lab Assignment 10\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-07T15:18:56.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

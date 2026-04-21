@@ -1,0 +1,12 @@
+﻿.mini_head {
+    background-color: lightpink;
+}
+
+.CustName{
+    display:flex;
+
+}
+.textbox {
+    width: 200px;
+    height: 150px;
+}

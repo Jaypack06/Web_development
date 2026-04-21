@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3951E27B-4B07-450C-92F1-902C58C5E1E8}|Lab Assignment 8\\ServiceRequestWebControls.csproj|c:\\users\\jayde\\class\\web_development\\web_development\\assignment 8\\lab assignment 8\\lab assignment 8\\servicerequest.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3951E27B-4B07-450C-92F1-902C58C5E1E8}|Lab Assignment 8\\ServiceRequestWebControls.csproj|solutionrelative:lab assignment 8\\servicerequest.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3951E27B-4B07-450C-92F1-902C58C5E1E8}|Lab Assignment 8\\ServiceRequestWebControls.csproj|c:\\users\\jayde\\class\\web_development\\web_development\\assignment 8\\lab assignment 8\\lab assignment 8\\servicerequest.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3951E27B-4B07-450C-92F1-902C58C5E1E8}|Lab Assignment 8\\ServiceRequestWebControls.csproj|solutionrelative:lab assignment 8\\servicerequest.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3951E27B-4B07-450C-92F1-902C58C5E1E8}|Lab Assignment 8\\ServiceRequestWebControls.csproj|C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\lab assignment 8\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3951E27B-4B07-450C-92F1-902C58C5E1E8}|Lab Assignment 8\\ServiceRequestWebControls.csproj|solutionrelative:lab assignment 8\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3951E27B-4B07-450C-92F1-902C58C5E1E8}|Lab Assignment 8\\ServiceRequestWebControls.csproj|c:\\users\\jayde\\class\\web_development\\web_development\\assignment 8\\lab assignment 8\\lab assignment 8\\servicerequest.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3951E27B-4B07-450C-92F1-902C58C5E1E8}|Lab Assignment 8\\ServiceRequestWebControls.csproj|solutionrelative:lab assignment 8\\servicerequest.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRequest.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\Lab Assignment 8\\ServiceRequest.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Lab Assignment 8\\ServiceRequest.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\Lab Assignment 8\\ServiceRequest.aspx.designer.cs",
+              "RelativeToolTip": "Lab Assignment 8\\ServiceRequest.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T01:56:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRequest.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\Lab Assignment 8\\ServiceRequest.aspx.cs",
+              "RelativeDocumentMoniker": "Lab Assignment 8\\ServiceRequest.aspx.cs",
+              "ToolTip": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\Lab Assignment 8\\ServiceRequest.aspx.cs",
+              "RelativeToolTip": "Lab Assignment 8\\ServiceRequest.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T01:55:59.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Styles.css",
+              "DocumentMoniker": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\Lab Assignment 8\\Styles.css",
+              "RelativeDocumentMoniker": "Lab Assignment 8\\Styles.css",
+              "ToolTip": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\Lab Assignment 8\\Styles.css",
+              "RelativeToolTip": "Lab Assignment 8\\Styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-27T15:39:22.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRequest.aspx",
+              "DocumentMoniker": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\Lab Assignment 8\\ServiceRequest.aspx",
+              "RelativeDocumentMoniker": "Lab Assignment 8\\ServiceRequest.aspx",
+              "ToolTip": "C:\\Users\\jayde\\Class\\web_development\\Web_development\\assignment 8\\Lab Assignment 8\\Lab Assignment 8\\ServiceRequest.aspx",
+              "RelativeToolTip": "Lab Assignment 8\\ServiceRequest.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-24T16:04:08.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
